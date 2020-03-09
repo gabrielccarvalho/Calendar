@@ -2,7 +2,13 @@
 
 ## Get to know the projects
 
-- This section will be a quick description of the project.
+- This is a basic calendar project.
+- It should provide the user the following features:
+
+- [ ] See the calendar of a specific year. 
+- [ ] Zoom In and Out (show a single day <-> show couple years at once).
+- [ ] Define reminders in specific dates (not allowing to set a reminder in a past date).
+- [ ] Highlight the current day.
 
 ## Prerequisites
 
