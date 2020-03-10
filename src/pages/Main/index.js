@@ -1,14 +1,16 @@
 import React, { Component } from 'react';
+import Calendar from 'react-calendar'
 
 import { withRouter } from 'react-router-dom';
 
-import { Header } from './styles';
+import { DragArea } from './styles';
 
 class Main extends Component {
   render() {
     return (
       <>
-      <Header />
+      <DragArea />
+      <Calendar />
       </>
     );
   }
